@@ -1,2 +1,1 @@
-# so_verifiy
-ソース検証専用
+# podcast_txt_tts
