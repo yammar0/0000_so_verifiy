@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+output/
+*.ogg
+*.mp3
+
+.env
+
+*.log
